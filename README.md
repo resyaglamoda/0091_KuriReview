@@ -11,3 +11,4 @@
 | :---: |:------------| :--- | :---: |
 | 1 | 9 Nov 2026  | Menentukan Judul Project dan Tema | ✅ Selesai |
 | 2 | 19 Nov 2026 | Menyusun Dokumen SRS KuriReview | ✅ Selesai |
+| 3 | 26 Nov 2026 | Pembuatan struktur backend, instalasi dependencies, dan konfigurasi REST API menggunakan Node.js dan Express.js | ✅ Selesai |
